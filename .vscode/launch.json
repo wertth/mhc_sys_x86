@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/wertth/mhc_sys_x86/boot",
-      "program": "/home/wertth/mhc_sys_x86/boot/build/Debug/outDebug",
+      "cwd": "/home/wertth/mhc_sys_x86/libs",
+      "program": "/home/wertth/mhc_sys_x86/libs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
